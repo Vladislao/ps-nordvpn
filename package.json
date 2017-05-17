@@ -1,6 +1,6 @@
 {
   "name": "ps-nordvpn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Source of proxies for proxy-supervisor from https://nordvpn.com/ru/free-proxy-list/",
   "main": "index.js",
   "scripts": {
